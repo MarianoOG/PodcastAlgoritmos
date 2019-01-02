@@ -1,0 +1,51 @@
+# 006 PARALELO
+
+Los gráficos de los videojuegos y las películas animadas cada vez son más realistas. Para lograr estos resultados técnicas como el cómputo paralelo son necesarias. En este episodio hablaremos sobre la idea básica detrás del uso de una GPU para realizar operaciones repetitivas de forma independiente.
+
+* Escuchar en: https://ona309.com/Algoritmos006
+
+## Hilos
+
+Para explicar que es un hilo nos vamos a enfocar en el funcionamiento de un celular. Al abrir varias aplicaciones pueden funcionar al mismo tiempo sin necesidad que una aplicación se cierre. Por ejemplo siempre llegaran las notificaciones a pesar de que estés viendo un video o puedes leer un artículo mientras estas escuchando música en el mismo dispositivo. Esto es posible gracias al manejo de hilos, que en general son procesos independientes que no requieren esperar la respuesta de otros hilos.
+
+Más allá de eso, es posible tener varios hilos en el mismo programa. Por ejemplo en un videojuego con dos o más jugadores que pueden jugar de forma simultánea en el mismo dispositivo. En este tipo de escenarios cada jugador debe ser capaz de introducir datos y de que esto genere un resultado de forma independiente a las acciones del otro jugador. Un problema que se presenta en este tipo de escenarios es la sincronización. En el caso del videojuego será como interactúa cada uno de esos agentes (jugadores) entre sí y con el ambiente.
+
+## Cómputo paralelo
+
+En un ordenador nos encontraremos con un componente llamado CPU o Unidad de Procesamiento Central. En este lugar de la computadora es donde se realiza la mayoría de las operaciones necesarias para su funcionamiento, tanto matemáticas como de lectura y escritura de memoria. Hoy en día no es difícil encontrarnos con procesadores de 2 o 4 núcleos. Esto quiere decir que algunos procesadores serán capaces de dividir las tareas que tienen que realizar en varias unidades de procesamiento independientes.
+
+### GPU
+
+Existe otra componente de las computadoras llamada GPU o Unidad de Procesamiento Gráfico. Estas son utilizadas principalmente para procesar las imágenes que serán generadas en nuestra pantalla. Pueden contener cientos e incluso miles de núcleos. Sin embargo su capacidad de memoria generalmente es reducida.
+
+Es posible utilizar las GPU's para procesamiento o cómputo en paralelo cuando una tarea se puede dividir en operaciones repetitivas que no requieran de mucha memoria y que sean independientes. Esta técnica es especialmente utilizada cuando las operaciones a realizar son enormes por ejemplo al renderizar video o imágenes así como animaciones (películas o videojuegos animados). También puede utilizarse para resolver problemas de optimización que utilicen varios métodos como redes neuronales, enjambres (PSO), algoritmos evolutivos entre otros.
+
+Video de introducción a cómputo paralelo en GPU (https://youtu.be/1cHx1baKqq0)
+
+## Links sobre OpenCL
+
+Este es el recorrido que yo he tomado hasta el momento para aprender OpenCL. Para poder seguir este recorrido es necesario saber C/C++.  Primero ví los tutoriales de Youtube para conocer los términos y funcionamiento general de OpenCL. Algunos conceptos son repetidos en cada lista de reproducción, te recomiendo elegir aquella(s) que más te agraden. Ya que me sentía algo relacionado con el tema empece a resolver los ejercicios de Hands On OpenCL. Esto me ayudo a utilizar los conceptos y a acomodar las ideas de forma práctica. A la par continue con los tutoriales de Youtube y consulto los libros cuando hay una duda específica en la que requiero algo más de profundidad.
+
+### Tutoriales Youtube
+
+* OpenCL Tutorials - David Gohara: https://www.youtube.com/playlist?list=PLTfYiv7-a3l7mYEdjk35wfY-KQj5yVXO2
+* OpenCL Technical Overview - Developer Central: https://www.youtube.com/playlist?list=PLVk9nlso0x0K0pRMzEj0-kbidFBxohTTk
+* Professional OpenCL Training Series - AJ Guillon: https://www.youtube.com/playlist?list=PLhqBhHU0mKh9zeei8cdnEe4I5e6ZMNlqy
+* Introduction to OpenCL - David Black-Schaffer: https://www.youtube.com/playlist?list=PLiwt1iVUib9s6vyEqdpcgAq7NBRlp9mAY
+* Intro to Parallel Programming - Udacity: https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2
+
+### Hands On OpenCL
+
+Esta es una serie de ejercicios (y sus respuestas) así como una presentación que acompaña estos conceptos la puedes encontrar en: https://github.com/HandsOnOpenCL.
+
+### Libros
+
+Puedes encontrarlos en estas ligas si quieres tenerlos en físico, si solo quieres consultarlos puedes encontrar la versión digital realizando una búsqueda en google.
+
+* OpenCL Programming Guide - https://amzn.to/2RU2pfI
+* Heterogeneous Computing with OpenCL: Revised OpenCL 1.2 Edition - https://amzn.to/2RW51dc
+
+## Recomendaciones (fuera del tema)
+
+* En este momento también me encuentro leyendo el libro *El Efecto Lucifer* (https://amzn.to/2O8CanQ), donde Philip Zimbardo nos cuenta sobre su famoso experimento (Stanford). En este experimento estudiantes fueron divididos en prisioneros o guardias.
+* Video sobre Adiciones en Kurzgesagt – In a Nutshell (https://youtu.be/ao8L-0nSYzg)

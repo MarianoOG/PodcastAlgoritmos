@@ -1,0 +1,40 @@
+# 005 FUTURO
+
+Inteligencia artificial, cadena de bloques, redes sociales y ¿porqué deje de hacer el podcast por dos meses? Todo eso en este episodio del podcast algoritmos.
+
+* Escuchar en: https://ona309.com/Algoritmos005
+
+## Blockchain
+
+Todo mundo de las criptodivisas y de como muchos se han vuelto millonarios con ellas. Cada vez más pequeños y grandes empresarios inician sus propias divisas para su negocio. Escuchando a Gary Vee hablando del tema escuche algo que me parece acertado: más del 90% de las criptomonedas actuales fallarán. Es muy pronto para definir un ganador absoluto de esta tecnología y, peor aún, una de sus características es que es muy volátil. Muchas personas cambian de opinión continuamente al respecto. Sin embargo, será interesante ver este proceso y como esta nueva tecnología redefine varias industrias.
+
+### Ejemplos
+
+* Bitcoin, la criptodivisa que todos conocen. La prueba de que la tecnología funciona sin embargo se ha vuelto tan grande que la velocidad y el precio se vuelven una limitante. (https://www.bitcoin.com/)
+* Ethereum, más allá de un token una plataforma donde puedes incluir contratos inteligentes para manejar tu negocio (o cualquier aplicación) a través de esta red. (https://www.ethereum.org/)
+* Ripple, una divisa que pretende convertir las transacciones entre bancos internacionales un proceso simple y barato. (https://ripple.com/)
+* LiveEdu, un token especializado en la educación. (https://education-ecosystem.com/)
+* Wildspark, pretende ser una red de creadores y curadores de contenido que den valor inmediato a la atención generando una cadena de "amplificaciones". (https://wildspark.me/)
+* Virtue poker, una posible forma segura de jugar al póquer en el futuro. Trata de prevenir fraudes y hackeos como aquellos que han sucedido en plataformas anteriores. (https://virtue.poker/)
+
+**NOTA**: esto no es ningún consejo de compra o venta, sólo es informativo. Deposita tu dinero solo en aquello que conoces y entendiendo los riesgos que eso implica.
+
+### ¿Por qué esto es importante?
+
+En mi opinión, lo importante de esta tecnología no es el dinero es el valor que puede generar. La idea de poder tomar decisiones de forma conjunta y descentralizada tiene un potencial increíble. Un futuro donde las cosas funcionen sin necesidad de depositar tu confianza en bancos o el gobierno para que las cosas funcionen es muy interesante.
+
+## ¿Qué peligros pueden surgir de la tecnología actual?
+
+Es probable que hayan escuchado una parte del podcast de Joe Rigan y Elon Musk donde aparece fumando mariguana o al menos algunos memes al respecto (sino lo has hecho aquí tiene la [entrevista completa](https://youtu.be/ycPr5-27vSI). Sin embargo creo que eso es lo menos importante de la plática. Aquí algunos puntos que vale la pena destacar.
+
+### Redes Sociales
+
+Algo que creo son valioso de destacar es cuando hablan del uso de las redes sociales y como te hacen sentir. Mencionan la importancia de entender que lo que pasa en redes sociales es lo que uno quiere mostrar y no necesariamente la realidad completa. Por eso no debemos compararnos ni pensar en que alguien es mejor que otro basado en eso, debería considerarse más como un show y no una realidad.
+
+### Regular la inteligencia artificial
+
+También se toca el tema de la importancia de regular la inteligencia artificial, de crear leyes que regulen su uso. En especial la preocupación son las aplicaciones militares y el poder destructivo que esta tecnología tiene. Creo que debemos recordar que la tecnología no es "mala" ni "buena", el uso que le demos depende enteramente de nosotros.
+
+### Interfaz humano-máquina
+
+Una idea interesante que surge en la plática es cuando se comenta que los humanos actuales somos cyborgs. El teléfono y el internet nos dan acceso a información de las demás personas. También podemos depositar nuestro conocimiento en ellas. Al igual que los libros en su momento. Lo único que está cambiando es la velocidad con la que podemos depositar y digerir esa información. Esta [conferencia TED sobre invenciones de la IA](https://www.ted.com/talks/maurice_conti_the_incredible_inventions_of_intuitive_ai?language=es) muestra cómo podemos amplificar nuestras capacidades interactuando con máquinas. En un futuro tal vez sea posible conectar directamente nuestro cerebro al internet para trasmitir y consumir información de una forma espectacularmente veloz. Si te interesan temas similares te recomiendo el libro: [Como crear una mente de Ray Kurzweil](https://amzn.to/2Nh1Lud) que habla más a fondo de temas similares así como de la singularidad, el momento hipotético (ósea que todavía no pasa) en el que las máquinas son tan inteligentes como las personas.

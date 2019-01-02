@@ -24,7 +24,9 @@ Estoy en búsqueda de escritores e instructores voluntarios que apoyen en el des
 
 ## Contacto
 
+* [Anchor](https://ona309.com/Podcast): aquí puedes escuchar mis podcast, y por medio de la app puedes también enviarme notas de audio que pueden aparecer en los episodios.
 * [Twitter](https://twitter.com/Mariano_OG): lo utilizo principalmente para difusión y compartir contenido de interés. Generalmente los enlaces a los recursos que uso para el podcast aparecen aquí primero.
 * [Instagram](https://instagam.com/mariano_og): donde comparto mis viajes, experiencias y aprendizajes, una plataforma un poco más personal.
 * [LinkedIn](https://www.linkedin.com/in/marianoog/): aquí comparto artículos originales en inglés y las notas de los episodios.
-* [Pagina Web](http://www.marianoog.com): es una carta de presentación más extensa con información y los enlaces sobre los proyectos en los que trabajo.
+* **Correo**: contacto@marianoog.com, principalmente lo uso para proyectos freelance y contactos de negocios.
+* [Pagina Web](https://ona309.com/MarianoOG): es una carta de presentación más extensa con información y los enlaces sobre los proyectos en los que trabajo.

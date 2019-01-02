@@ -1,0 +1,26 @@
+# 003 EVOLUCIÓN
+
+En el mundo actual siempre se busca hacer algo más rápido, de forma más eficiente y con menor gasto. Esto se conoce como un problema de optimización multi-objetivo. En este capítulo hablaremos de la evolución y como algunos algoritmos utilizan las ideas de Darwin para resolver problemas. ¿Cómo ha evolucionado la tecnología? ¿Puede seguir haciéndolo por sí sola?
+
+* Escuchar en: https://ona309.com/Algoritmos002
+
+## Evolución
+
+La Evolución es el cambio o transformación gradual de algo, como un estado, una circunstancia, una situación, unas ideas.
+
+### Charles Darwin y la teoría de la evolución
+
+Hace más de un siglo y medio, el científico inglés, Charles Darwin presentó su teoría sobre la evolución y en 1859 publicó su libro "Sobre el origen de las especies", donde habla de la selección natural. Incluso actualmente existe un error común cuando se piensa en esta teoría. Generalmente se da el ejemplo clásico de las jirafas que tienen un cuello largo debido a que es necesario tenerlo para alcanzar las hojas más lejanas. Se dice que entonces las jirafas hacen crecer su cuello, sin embargo esto es falso y corresponde a una teoría anterior, la teoría de Lamark. En cambio la teoría de Darwin no es tan bonita, nos dice que las jirafas con cuello corto al no poder comer, mueren. Por lo tanto las jirafas con cuello largo pueden reproducirse y es por eso que cada vez solo hay más jirafas con cuello largo.
+
+Actualmente se conoce la teoría del neodarwinismo que incluye los descubrimientos de la genética como las leyes de Mendel. También se habla de la posibilidad de la evolución dirigida o, como otros la llaman, selección no natural. Dado el conocimiento que tenemos sobre el funcionamiento de los genes es posible que en un futuro próximo podamos modificar especies con más libertad. Más allá de ser críticos sobre si esto es posible o no (o si es ético o no) me gustaría pensar más en la idea de reconocer que es una posibilidad y de reflexionar sobre cuál sería nuestro lugar en dicha evolución.
+
+## Algoritmos genéticos
+
+Es posible tomar las ideas de Darwin y Mendel sobre la evolución y la genética para convertirlos en un algoritmo. En este algoritmo utilizaremos una población (muchas respuestas posibles). Después las mediremos para saber cuáles son las mejores. Desecharemos las peores y utilizaremos las mejores para combinarlas entre ellas (reproducción) y producir nuevas respuestas. Una vez realizado este proceso mediremos la siguiente generación y repetiremos el proceso hasta llegar a un consenso (convergencia).
+
+Gracias a este proceso podemos hacer diseños u obtener respuestas desde una perspectiva evolutiva. En otras palabras: podemos resolver problemas a prueba y error pero con la ventaja de la velocidad de procesamiento de las computadoras actuales.
+
+## Recomendaciones (fuera de tema)
+
+* Película en Netflix: **Anon**, habla sobre la privacidad digital.
+* [Conferencia TED](https://www.ted.com/talks/james_bridle_the_nightmare_videos_of_childrens_youtube_and_what_s_wrong_with_the_internet_today/discussion) sobre como consumen contenido lo niños en YouTube.
