@@ -2,7 +2,7 @@
 
 En el mundo actual siempre se busca hacer algo más rápido, de forma más eficiente y con menor gasto. Esto se conoce como un problema de optimización multi-objetivo. En este capítulo hablaremos de la evolución y como algunos algoritmos utilizan las ideas de Darwin para resolver problemas. ¿Cómo ha evolucionado la tecnología? ¿Puede seguir haciéndolo por sí sola?
 
-* Escuchar en: https://ona309.com/Algoritmos002
+* Escuchar en: https://ona309.com/Algoritmos003
 
 ## Evolución
 
