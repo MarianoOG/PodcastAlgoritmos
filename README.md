@@ -2,7 +2,7 @@
 
 Cree este podcast con la intención de hacer difusión y despertar el interés sobre distintos temas que se relacionan con la tecnología y las ciencias de la computación. Estas son las notas del programa donde escribiré un pequeño resumen de cada episodio, dejaré los enlaces y demás información que no pude o se me olvido incluir en el podcast. También funcionarán como fe de erratas, es decir, el lugar donde puedo corregir cualquier error o comentar y discutir más a fondo sobre el contenido.
 
-Escuchar podcast en: https://ona309.com/Podcast
+* Escuchar podcast en: https://ona309.com/Podcast
 
 ## Descripción del programa
 
