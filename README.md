@@ -8,19 +8,20 @@ Cree este podcast con la intención de hacer difusión y despertar el interés s
 
 En el *Podcast Algoritmos* hablaremos sobre problemas actuales y cómo resolverlos a través de la tecnología. Si utilizas algún servicio digital como las redes sociales y quieres saber cómo funcionan los algoritmos que analizan nuestros datos, nos hacen recomendaciones y toman decisiones automáticas por nosotros: escucha este podcast, ya que te dará una opinión informada sobre el funcionamiento, los riesgos y las ventajas que pueden derivar del uso de dichos servicios y sus algoritmos.
 
-## Colaboraraciones
-
-### Dudas, correcciones y recomendaciones
+## Dudas, correcciones y recomendaciones
 
 Si eres usuario de Github, lo mejor sería enviar un pull request donde se realizan esas correcciones o se agregan los enlaces a otros recursos de interés. Si no tienes cuenta de Github puedes contactarme por las redes sociales usando el hashtag [#PodcastAlgoritmos](https://twitter.com/intent/tweet?url=http://anchor.fm/algoritmos;text=PodcastAlgoritmos%20via%20@Mariano_OG). Estaré en constante revisión de dichos comentarios.
 
-### Curso de programación
+## Curso de programación
 
 Estoy en búsqueda de escritores e instructores voluntarios que apoyen en el desarrollo de un curso de programación en línea. Este proyecto se está realizando en colaboración con el equipo de [Fundación Kichihua A.C.](www.kichihua.com). El curso será totalmente gratuito y en español, utilizará scratch y python como lenguajes principales. Su objetivo principal no es enseñar los conceptos de programación directamente sino que por medio de proyectos se busca enseñar habilidades como búsqueda de información y aprendizaje constante. Para más información mandar correo a mariano@kichihua.com con asunto *curso de programación*.
 
-### Entrevistas
+## Coolaboraciones
 
 ¿Eres programador, científico o trabajas en alguna industria que incorpora tecnologías digitales? ¿Te interesa inspirar a otros a conocer y utilizar estas herramientas? Se parte de un episodio del podcast y comparte tus ideas. Contáctame por cualquiera de los medios de contacto enlistados a continuación.
+
+* Robando Ideas, Eduardo Ayala. link
+* Curse Review, ejste. link
 
 ## Contacto
 

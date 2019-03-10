@@ -17,4 +17,9 @@ Esta representación nos da la oportunidad de realizar operaciones con estas im�
 + Contraste
 + Video movimiento
 
+## ¿Dónde buscar más información?
+
+* Computational Photography | Udacity Course: https://www.youtube.com/playlist?list=PLAwxTw4SYaPn-unAWtRMleY4peSe4OzIY
+* OpenCV Python Tutorials: https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
+
 Si estas aquí en github te invito a buscar: *image processing*, *procesamiento de imagenes* o cualquier cosa similar para que veas ejemplos de lo que se habla en el episodio. Una librería comun para esto se llama opencv. También te invito a buscarla.
