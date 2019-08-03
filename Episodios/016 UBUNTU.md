@@ -1,8 +1,27 @@
+---
+layout: post
+category : episodios
+tagline: "CAP 001 DECISIONES"
+tags : [jekyll, code, markdown]
+img : markdown-samples.jpg
+img2 : 
+img3 : 
+author : MarianoOG
+title2 : 
+title3 : 
+css: 
+js: 
+bgcolor: 
+keywords: 
+canonical: https://marianoog.github.io
+---
+{% include JB/setup %}
+Escuchar en: https://ona309.com/Algoritmos016
+<!--more-->
+
 # 016 UBUNTU
 
 Te platico porqué borre Windows de mi computadora para instalar un nuevo sistema operativo totalmente gratis que puede ayudarte si necesitas un cambio y quieres aprender cosas nuevas como yo. Te platico cómo instalarlo, lo bueno, lo malo y algunos programas que puedes usar en él.
-
-Escuchar en: https://ona309.com/Algoritmos016
 
 ## Links
 

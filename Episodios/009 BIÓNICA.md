@@ -1,3 +1,24 @@
+---
+layout: post
+category : episodios
+tagline: "CAP 001 DECISIONES"
+tags : [jekyll, code, markdown]
+img : markdown-samples.jpg
+img2 : 
+img3 : 
+author : MarianoOG
+title2 : 
+title3 : 
+css: 
+js: 
+bgcolor: 
+keywords: 
+canonical: https://marianoog.github.io
+---
+{% include JB/setup %}
+* Escuchar en: https://ona309.com/Algoritmos009
+<!--more-->
+
 # 009 BIÓNICA
 
 La biónica es la ciencia que se encarga de replicar procesos naturales de forma artificial, es decir, emula ciertas características de la naturaleza de forma artificial por medio de la tecnología para obtener resultados similares.

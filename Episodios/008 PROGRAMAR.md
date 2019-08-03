@@ -1,3 +1,24 @@
+---
+layout: post
+category : episodios
+tagline: "CAP 001 DECISIONES"
+tags : [jekyll, code, markdown]
+img : markdown-samples.jpg
+img2 : 
+img3 : 
+author : MarianoOG
+title2 : 
+title3 : 
+css: 
+js: 
+bgcolor: 
+keywords: 
+canonical: https://marianoog.github.io
+---
+{% include JB/setup %}
+* Escuchar en: https://ona309.com/Algoritmos008
+<!--more-->
+
 # 008 PROGRAMAR
 
 Empezar a programar suena como algo imposible y muy complicado si nunca lo has hecho. Sin embargo, en mi opinión, se convertirá en una habilidad básica para trabajar en cualquier industria. Aquí lo bueno y lo malo de ser programador.

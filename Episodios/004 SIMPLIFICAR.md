@@ -1,3 +1,24 @@
+---
+layout: post
+category : episodios
+tagline: "CAP 001 DECISIONES"
+tags : [jekyll, code, markdown]
+img : markdown-samples.jpg
+img2 : 
+img3 : 
+author : MarianoOG
+title2 : 
+title3 : 
+css: 
+js: 
+bgcolor: 
+keywords: 
+canonical: https://marianoog.github.io
+---
+{% include JB/setup %}
+* Escuchar en: https://ona309.com/Algoritmos004
+<!--more-->
+
 # 004 SIMPLIFICAR
 
 El día de hoy hablaremos sobre simplificar, es decir sobre cómo reducir la complejidad de algo. Cuando hay dos respuestas que nos dan un resultado positivo siempre debemos elegir aquella que sea más simple.

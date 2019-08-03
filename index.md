@@ -50,12 +50,3 @@ Si no encuentras lo que buscas o si quieres hacer una corrección o aporte, no d
 Junto a [Fundación Kichihua A.C.](https://www.kichihua.com) estoy creando un curso de programación totalmente gratuito y en español. Este curso esta basado en proyectos y ejercicios, para que puedas aprender mientras creas tus propios programas y un portafolio.
 
 Puedes ver el curso aqui: https://github.com/kichihua/Curso-de-Programacion
-
-## Contacto
-
-* Podcast: [Spotify](https://ona309.com/Spotify) u [otras plataformas](https://ona309.com/Podcast)
-* Twitter: https://twitter.com/Mariano_OG
-* LinkedIn: https://www.linkedin.com/in/marianoog/
-* Instagram: https://instagam.com/mariano_og
-* Correo: contacto@marianoog.com.
-* Pagina Web: https://ona309.com/MarianoOG

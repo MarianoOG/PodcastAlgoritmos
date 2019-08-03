@@ -1,8 +1,27 @@
+---
+layout: post
+category : episodios
+tagline: "CAP 001 DECISIONES"
+tags : [jekyll, code, markdown]
+img : markdown-samples.jpg
+img2 : 
+img3 : 
+author : MarianoOG
+title2 : 
+title3 : 
+css: 
+js: 
+bgcolor: 
+keywords: 
+canonical: https://marianoog.github.io
+---
+{% include JB/setup %}
+* Escuchar en: https://ona309.com/Algoritmos001
+<!--more-->
+
 # 001 DECISIONES
 
 En este episodio discutimos sobre las decisiones. Diferencias y similitudes en el proceso para tomar una decisión entre una computadora y un humano. ¿Crees que una computadora puede tomar decisiones similares a un humano?
-
-* Escuchar en: https://ona309.com/Algoritmos001
 
 ## Introducción
 
@@ -69,4 +88,3 @@ Sino es de noche:
 No dejes que esto termine aquí, si te ha gustado comparte el episodio con tus amigos y sigue la discusión en redes sociales con el hashtag #PodcastAlgoritmos.
 
 * [Comparte en twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fona309.com%2FAlgoritmos001&via=Mariano_OG&text=Escucha%20el%20Podcast%20Algtitmos&hashtags=PodcastAlgotitmos).
-

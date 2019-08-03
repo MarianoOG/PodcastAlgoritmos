@@ -1,3 +1,24 @@
+---
+layout: post
+category : episodios
+tagline: "CAP 001 DECISIONES"
+tags : [jekyll, code, markdown]
+img : markdown-samples.jpg
+img2 : 
+img3 : 
+author : MarianoOG
+title2 : 
+title3 : 
+css: 
+js: 
+bgcolor: 
+keywords: 
+canonical: https://marianoog.github.io
+---
+{% include JB/setup %}
+* Escuchar en: https://ona309.com/Algoritmos007
+<!--more-->
+
 # 007 IMÁGENES
 
 Fotos, memes e ilustraciones, los vemos todo el tiempo. Nos ayudan a transmitir ideas de formas más atractivas. En este episodio cubriremos cómo es posible manipular las imágenes de forma digital.

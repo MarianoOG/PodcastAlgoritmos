@@ -1,3 +1,24 @@
+---
+layout: post
+category : episodios
+tagline: "CAP 001 DECISIONES"
+tags : [jekyll, code, markdown]
+img : markdown-samples.jpg
+img2 : 
+img3 : 
+author : MarianoOG
+title2 : 
+title3 : 
+css: 
+js: 
+bgcolor: 
+keywords: 
+canonical: https://marianoog.github.io
+---
+{% include JB/setup %}
+* Escuchar en: https://ona309.com/Algoritmos003
+<!--more-->
+
 # 003 EVOLUCIÓN
 
 En el mundo actual siempre se busca hacer algo más rápido, de forma más eficiente y con menor gasto. Esto se conoce como un problema de optimización multi-objetivo. En este capítulo hablaremos de la evolución y como algunos algoritmos utilizan las ideas de Darwin para resolver problemas. ¿Cómo ha evolucionado la tecnología? ¿Puede seguir haciéndolo por sí sola?

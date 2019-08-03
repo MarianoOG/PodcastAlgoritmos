@@ -1,3 +1,24 @@
+---
+layout: post
+category : episodios
+tagline: "CAP 001 DECISIONES"
+tags : [jekyll, code, markdown]
+img : markdown-samples.jpg
+img2 : 
+img3 : 
+author : MarianoOG
+title2 : 
+title3 : 
+css: 
+js: 
+bgcolor: 
+keywords: 
+canonical: https://marianoog.github.io
+---
+{% include JB/setup %}
+* Escuchar en: https://ona309.com/Algoritmos006
+<!--more-->
+
 # 006 PARALELO
 
 Los gráficos de los videojuegos y las películas animadas cada vez son más realistas. Para lograr estos resultados técnicas como el cómputo paralelo son necesarias. En este episodio hablaremos sobre la idea básica detrás del uso de una GPU para realizar operaciones repetitivas de forma independiente.

@@ -1,3 +1,24 @@
+---
+layout: post
+category : episodios
+tagline: "CAP 001 DECISIONES"
+tags : [jekyll, code, markdown]
+img : markdown-samples.jpg
+img2 : 
+img3 : 
+author : MarianoOG
+title2 : 
+title3 : 
+css: 
+js: 
+bgcolor: 
+keywords: 
+canonical: https://marianoog.github.io
+---
+{% include JB/setup %}
+* Escuchar en: https://ona309.com/Algoritmos002
+<!--more-->
+
 # 002 ORDENAR
 
 En el podcast Algoritmos hablaremos sobre problemas actuales y cómo resolverlos a través de la tecnología. Si utilizas algún servicio digital como las redes sociales y quieres saber cómo funcionan los algoritmos que analizan nuestros datos, nos hacen recomendaciones y toman decisiones automáticas por nosotros: escucha este podcast, ya que te dará una opinión informada sobre el funcionamiento, los riesgos y las ventajas que pueden derivar del uso de dichos servicios y sus algoritmos.
