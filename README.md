@@ -1,3 +1,16 @@
+---
+layout: blog
+title: Podcast Algoritmos
+group: 
+tags : [podcast, algoritmos]
+author : MarianoOG
+css: 
+js:
+keywords: Algoritmos, Podcast
+canonical: https://marianoog.github.io
+---
+{% include JB/setup %}
+
 # PODCAST ALGORITMOS
 
 Cree este podcast para tener platicas interesantes y compartir ideas al torno de la tecnología . con la intención de hacer difusión y despertar el interés sobre distintos temas que se relacionan con la tecnología y las ciencias de la computación. Estas son las notas del programa donde dejaré los enlaces, información extra y correciones que se hagan a los episodios.
