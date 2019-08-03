@@ -1,1 +1,14 @@
 remote_theme: marianoog/marianoog.github.io
+
+title : Podcast Algoritmos
+tagline: Página del podcast Algoritmos y las notas de sus episodios
+author : 
+  name : Mariano Orozco Garcia
+  site: https://www.marianoog.com
+  description : Programador e Ingeniero en Biónica con gusto por aprender, descubrir cosas nuevas y tener platicas interesantes. Creador del Podcast Algoritmos y co-fundador de Kichihua. Con gusto por los juegos de mesa, la fotografía, nadar y las buenas historias.
+  image : foto.jpg
+  email : contacto@marianoog.com
+  github : marianoog
+  twitter : mariano_og
+  linkedin: marianoog
+  instagram: mariano_og
