@@ -1,12 +1,10 @@
 ---
 layout: blog
 title: Podcast Algoritmos
-group: 
-tags : [podcast, algoritmos]
 author : MarianoOG
 css: 
 js:
-keywords: Algoritmos, Podcast
+keywords: Programación, IA, Inteligencia Artificial, Algoritmos, Machine Learning, Ciencia de Datos, Software, marianoog, PodcastAlgoritmos
 canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
