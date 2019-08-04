@@ -17,8 +17,6 @@ keywords:
 canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
-* Escuchar en: https://ona309.com/Algoritmos001
-<!--more-->
 
 # 001 DECISIONES
 
