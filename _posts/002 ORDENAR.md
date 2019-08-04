@@ -1,0 +1,117 @@
+---
+layout: post
+category : episodios
+tagline: "CAP 001 DECISIONES"
+tags : [jekyll, code, markdown]
+img : markdown-samples.jpg
+img2 : 
+img3 : 
+author : MarianoOG
+title2 : 
+title3 : 
+css: 
+js: 
+bgcolor: 
+keywords: 
+canonical: https://marianoog.github.io
+---
+{% include JB/setup %}
+* Escuchar en: https://ona309.com/Algoritmos002
+<!--more-->
+
+# 002 ORDENAR
+
+En el podcast Algoritmos hablaremos sobre problemas actuales y cómo resolverlos a través de la tecnología. Si utilizas algún servicio digital como las redes sociales y quieres saber cómo funcionan los algoritmos que analizan nuestros datos, nos hacen recomendaciones y toman decisiones automáticas por nosotros: escucha este podcast, ya que te dará una opinión informada sobre el funcionamiento, los riesgos y las ventajas que pueden derivar del uso de dichos servicios y sus algoritmos.
+
+* Escuchar en: https://ona309.com/Algoritmos002
+
+## Comentario (fuera del tema)
+
+Antes de iniciar me gustaría comentar sobre un artículo que encontré en twitter sobre los algoritmos donde los describen como injustos y los comparan con los sistemas humanos diciendo que estos son reflexionados y justos. También hablan de las cajas negras. Quiero dar un comentario al respecto…
+
+Las cajas negras son herramientas (funciones) que se pueden utilizar sin necesidad de conocer su funcionamiento interno. Solo se conoce el tipo de entrada y salida, pero no lo que pasa para que esto sea posible. Por ejemplo un filtro de imagen (como los de Instagram) es una caja negra para el usuario, es decir, los pueden utilizar pero no necesariamente deben conocer su funcionamiento interno. Sin embargo el diseñador claro que conoce su funcionamiento y estructura. Es cierto que aplicaciones más avanzadas que utilizan aprendizaje profundo o por reforzamiento (solo por mencionar algunos) tienen un estado interno desconocido incluso para el diseñador, sin embargo el estado inicial y la estructura son conocidas. De no ser así, ¿cómo fueron creadas en primer lugar? Por lo que mencionar las cajas negras no tiene sentido en cuestiones de justicia.
+
+En general creo que en ocasiones se confunde la justicia con la determinación estadística. Una máquina puede calcular probabilidades en base a los datos que tiene pero no puede intuir una nueva excepción o un caso completamente nuevo (hasta ahora). Sin embargo, la elección de las bases de datos, los algoritmos utilizados y la decisión de utilizar servicios digitales son completamente humanas. No dejemos en manos de una maquina una responsabilidad que nos corresponde.
+
+## Ordenar
+
+Ordenar es poner de una manera específica las cosas, las personas, los sucesos en el tiempo según un criterio o una determinada norma.
+
+### ¿Qué tipo de criterios?
+
+Podemos usar cualquier criterio que nosotros querramos, aquí algunos ejemplos.
+
+#### Ejemplo: ordenar libros
+
+* Alfabéticamente
+* Categoría
+* Cronológicamente
+* Relevancia
+
+#### Ejemplo: ordenar la casa
+
+Marie Kondo en su libro la magia del orden (https://amzn.to/2NeeLvW), nos da una serie de pasos a seguir para ordenar nuestra casa.  Mi experiencia personal con el método ha sido buena sin embargo hay que considerar que toma tiempo y es algo radical. Por ello si hay otras personas deben de tomarse en cuenta sus opiniones.
+
+#### Ejemplo: feed, experiencia digital
+
+En Instagram y Facebook el número de post que hay es inmenso y sería aburrido (y en algunos casos imposible) ver todo. Así que los clasifican por varios parámetros por ejemplo lo que ves puede ser por:
+
+* **Atención y utilidad**, por medio de bases de base de datos determinados por interacciones (likes, comentarios). ¿Han notado que ves primero las personas o páginas con las que interactúas?
+* **Anuncios**, si alguna empresa o particular paga para poner un anuncio.
+
+## Ciclo For
+
+Se utiliza para realizar acciones en listas de datos, su pseudocódigo es:
+```
+Para cada elemento de la lista,
+  realizar acción con cada elemento seleccionado.
+```
+
+### Ejemplos
+
+Sumar 1 a cada elemento:
+```
+Para cada elemento de los números del 1 al 10,
+  sumar 1 a cada elemento seleccionado.
+```
+Resultado: `[2,3,4,5,6,7,8,9,10,11]`
+
+¿Pero qué pasa si no queremos usar todos los elementos?
+```
+Para cada elemento de los números del 1 al 10,
+seleccionar desde el segundo hasta el penúltimo,
+   sumar 1 a cada elemento
+```
+Resultado: `[1,3,4,5,6,7,8,9,10,10]`
+
+¿Podemos tomar uno si y uno no?
+```
+Para cada elemento de los números del 1 al 10,
+desde el primero hasta el penúltimo cada dos elementos,
+  sumar 1 a cada elemento seleccionado.
+```
+Resultado: `[2,2,4,4,6,6,8,8,10,10]`
+
+¿Si queremos hacerlo del final al inicio?
+```
+Para cada elemento de los números del 1 al 10,
+  desde el último hasta el primero,
+```
+Resultado: `[10,9,8,7,6,5,4,3,2,1]`
+
+### Pseudocódigo “Ordenamiento por intercambio”
+
+Es un algoritmo que puede ser usado para ordenar utilizando condicionales ver [notas del primer episodio](https://ona309.com/001) y ciclos for:
+```
+Para cada elemento de la lista, (recordarlo como elemento uno),
+  para cada elemento restante de la lista, (recordarlo como elemento dos) compararlo
+    si el elemento guardado es más pequeño que el elemento actual
+      cambia el valor de la variable menor por el elemento actual
+      intercambia el elemento uno por el elemento dos
+  termina hasta el último elemento dos
+termina hasta el último elemento uno
+```
+
+### Otros ejemplos:
+
+Para más ejemplos de ordenamiento puedes ver [aquí](https://www.toptal.com/developers/sorting-algorithms).

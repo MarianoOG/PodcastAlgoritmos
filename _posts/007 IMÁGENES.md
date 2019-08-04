@@ -1,0 +1,46 @@
+---
+layout: post
+category : episodios
+tagline: "CAP 001 DECISIONES"
+tags : [jekyll, code, markdown]
+img : markdown-samples.jpg
+img2 : 
+img3 : 
+author : MarianoOG
+title2 : 
+title3 : 
+css: 
+js: 
+bgcolor: 
+keywords: 
+canonical: https://marianoog.github.io
+---
+{% include JB/setup %}
+* Escuchar en: https://ona309.com/Algoritmos007
+<!--more-->
+
+# 007 IMÁGENES
+
+Fotos, memes e ilustraciones, los vemos todo el tiempo. Nos ayudan a transmitir ideas de formas más atractivas. En este episodio cubriremos cómo es posible manipular las imágenes de forma digital.
+
+Escuchar en: https://ona309.com/Algoritmos007
+
+## ¿Qué es una imagen?
+
+[Wikipedia dice](https://es.wikipedia.org/wiki/Imagen): **Una imagen es una representación visual, que manifiesta la apariencia visual de un objeto real o imaginario**.
+
+De forma digital una imagen está representada generalmente como una matriz de valores. Es decir un tablero de datos. Estos datos generalmente van del 0 al 255, es decir 8 bits. Siendo 0 el valor del color negro y 255 el valor del color blanco. Todos los números intermedios son diferentes valores de grises. De la misma forma es posible representar la imagen como una descomposición de colores. Estos colores son el rojo, azul y verde (RGB en inglés para Red, Green y Blue).
+
+Esta representación nos da la oportunidad de realizar operaciones con estas imágenes. Algunos ejemplos son:
++ Histograma
++ Filtro promedio
++ Normalización
++ Contraste
++ Video movimiento
+
+## ¿Dónde buscar más información?
+
+* Computational Photography | Udacity Course: https://www.youtube.com/playlist?list=PLAwxTw4SYaPn-unAWtRMleY4peSe4OzIY
+* OpenCV Python Tutorials: https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
+
+Si estas aquí en github te invito a buscar: *image processing*, *procesamiento de imagenes* o cualquier cosa similar para que veas ejemplos de lo que se habla en el episodio. Una librería comun para esto se llama opencv. También te invito a buscarla.

@@ -1,6 +1,7 @@
 remote_theme: marianoog/marianoog.github.io
 
 permalink: /:title
+baseurl: /podcast
 
 title : Podcast Algoritmos
 tagline: Página del podcast Algoritmos y las notas de sus episodios
