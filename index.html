@@ -26,7 +26,7 @@ canonical: https://marianoog.github.io
         
         <div class="col-xs-12 col-sm-4">
           <figure>
-            <img src="{{ BASE_PATH }}/images/podcast.jpg" alt="Portada del Podcast Algoritmos">
+            <img src="{{ POD_PATH }}/images/podcast.jpg" alt="Portada del Podcast Algoritmos">
           </figure>
         </div>
 
@@ -51,11 +51,11 @@ canonical: https://marianoog.github.io
         {% for post in site.posts %}
           <div class="col-md-4">
             <div class="blog-block">
-              <img src="{{ BASE_PATH }}images/{{ post.cap }}.jpg" alt="Post image of {{ post.title }}">
+              <img src="{{ POD_PATH }}/images/{{ post.cap }}.jpg" alt="Post image of {{ post.title }}">
               <div class="blog-content">
-                <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+                <h3><a href="{{ POD_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
                 <p>{{ post.tagline }}</p>
-                <a href="{{ BASE_PATH }}{{ post.url }}" class="btn btn-common">Leer notas <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                <a href="{{ POD_PATH }}{{ post.url }}" class="btn btn-common">Leer notas <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
               </div>
             </div>
           </div>
