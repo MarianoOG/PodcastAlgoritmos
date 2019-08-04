@@ -1,6 +1,7 @@
 ---
-layout: post
-category : episodios
+layout: episodios
+category : 
+cap: 001
 tagline: "CAP 001 DECISIONES"
 tags : [jekyll, code, markdown]
 img : markdown-samples.jpg
