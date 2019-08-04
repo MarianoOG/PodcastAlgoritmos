@@ -1,7 +1,7 @@
 ---
 layout: episode
 category: Podcast
-cap: 012
+cap: "012"
 tagline: En esta plática con Andres Arriaga el nos platica cómo es estudiar ciencias de la computación y nos da unos tips sobre como empezar a programar.
 author: MarianoOG
 css: 
