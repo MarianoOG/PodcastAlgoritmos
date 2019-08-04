@@ -1,23 +1,15 @@
 ---
-layout: post
-category : episodios
-tagline: "CAP 001 DECISIONES"
-tags : [jekyll, code, markdown]
-img : markdown-samples.jpg
-img2 : 
-img3 : 
-author : MarianoOG
-title2 : 
-title3 : 
+layout: episode
+category: Podcast
+cap: 011
+tagline: Este es un episodio especial, un pequeño extracto de una entrevista que me realizaron en un podcast hermano: Robando Ideas.
+author: MarianoOG
 css: 
 js: 
-bgcolor: 
-keywords: 
+keywords: Programación, IA, Inteligencia Artificial, Algoritmos, Machine Learning, Ciencia de Datos, Software, marianoog, PodcastAlgoritmos
 canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
-* Escuchar en: https://ona309.com/Algoritmos011
-<!--more-->
 
 # 011 ROBANDO IDEAS
 
