@@ -50,7 +50,7 @@ canonical: https://marianoog.github.io
       <div class="row">
         {% for post in site.posts %}
           <div class="col-md-4">
-            <div class="blog-block">
+            <div class="blog-block m-t-2">
               <img src="{{ BASE_PATH }}/images/{{ post.cap }}.jpg" alt="Post image of {{ post.title }}">
               <div class="blog-content">
                 <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
@@ -59,7 +59,6 @@ canonical: https://marianoog.github.io
               </div>
             </div>
           </div>
-          <div class="mb-30"></div>
         {% endfor %}
       </div>
     </div>
