@@ -26,7 +26,7 @@ canonical: https://marianoog.github.io
         
         <div class="col-xs-12 col-sm-4">
           <figure>
-            <img src="/images/podcast.jpg" alt="Portada del Podcast Algoritmos">
+            <img src="{{ BASE_PATH }}/images/podcast.jpg" alt="Portada del Podcast Algoritmos">
           </figure>
         </div>
 
@@ -35,10 +35,14 @@ canonical: https://marianoog.github.io
 
   </div>
 
+  <div class="mb-60"></div>
+
   <div class="container">
-    <h4 class="sub-title space-left">Episodios recientes <a href="/archive">(ver todos)</a></h4>
-    Si no encuentras lo que buscas o si quieres hacer una corrección o aporte, no dudes en contactarme por redes sociales.
+    <h4 class="sub-title space-left">Episodios</h4>
+    <p>Si no encuentras lo que buscas o si quieres hacer una corrección o aporte, no dudes en contactarme por redes sociales.</p>
   </div>
+
+  <div class="mb-60"></div>
 
   <!-- Posts -->
   <section id="blog">
@@ -47,11 +51,11 @@ canonical: https://marianoog.github.io
         {% for post in site.posts %}
           <div class="col-md-4">
             <div class="blog-block">
-              <img src="/images/{{ post.cap }}.jpg" alt="Post image of {{ post.title }}">
+              <img src="{{ BASE_PATH }}images/{{ post.cap }}.jpg" alt="Post image of {{ post.title }}">
               <div class="blog-content">
-                <h3><a href="#">{{ post.title }}</a></h3>
+                <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
                 <p>{{ post.tagline }}</p>
-                <a href="#" class="btn btn-common">Leer notas <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                <a href="{{ BASE_PATH }}{{ post.url }}" class="btn btn-common">Leer notas <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
               </div>
             </div>
           </div>
@@ -61,23 +65,5 @@ canonical: https://marianoog.github.io
 
   </section>
   <!-- End Posts -->
-
-  <!-- Podcast Header -->
-  <div id="headers">
-    <header id="header-style-1">
-      <div class="container">
-        <div class="header-caption">
-          <div class="row">
-            <div class="col-md-12 header-content">
-              <h3 class="header-title animated fadeInDown">Podcast <span class="text-primary">Algoritmos</span></h3>
-              <p class="header-text animated fadeIn">La tecnología que utilizamos cada vez se vuelve más compleja y confusa. Si como a mí te interesa saber más sobre cómo funciona y como está cambiando el mundo en el que vivimos, escucha el podcast algoritmos. En el aprenderemos juntos sobre los algoritmos que utilizan las herramientas digitales, discutiremos los problemas derivados de su uso y las nuevas oportunidades que nos brindan.</p>
-              <a href="https://ona309.com/Podcast" class="page-scroll btn btn-lg btn-default-filled animated fadeInUp">Escuchar ahora</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </header>
-  </div>
-  <!-- Podcast Header End -->
 
 </div>
