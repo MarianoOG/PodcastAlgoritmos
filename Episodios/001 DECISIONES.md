@@ -1,19 +1,13 @@
 ---
 layout: episodios
-category : 
+category: Podcast
 cap: 001
-tagline: "CAP 001 DECISIONES"
-tags : [jekyll, code, markdown]
-img : markdown-samples.jpg
-img2 : 
-img3 : 
-author : MarianoOG
-title2 : 
-title3 : 
+tagline: En este episodio discutimos sobre las decisiones. Diferencias y similitudes en el proceso para tomar una decisión entre una computadora y un humano. ¿Crees que una computadora puede tomar decisiones similares a un humano?
+img: helloworld.jpg
+author: MarianoOG
 css: 
 js: 
-bgcolor: 
-keywords: 
+keywords: Programación, IA, Inteligencia Artificial, Algoritmos, Machine Learning, Ciencia de Datos, Kichihua, Software, marianoog
 canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
