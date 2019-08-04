@@ -1,7 +1,6 @@
 remote_theme: marianoog/marianoog.github.io
 
 permalink: /:title
-POD_PATH: /PodcastAlgoritmos
 
 title : Podcast Algoritmos
 tagline: Página del podcast Algoritmos y las notas de sus episodios
@@ -15,3 +14,6 @@ author :
   twitter : mariano_og
   linkedin: marianoog
   instagram: mariano_og
+
+JB :
+  BASE_PATH: /PodcastAlgoritmos
