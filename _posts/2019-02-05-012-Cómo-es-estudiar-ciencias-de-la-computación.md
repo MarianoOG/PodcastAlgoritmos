@@ -17,5 +17,7 @@ En esta plática con Andres Arriaga el nos platica cómo es estudiar ciencias de
 
 **Computer Science/Software Engineering College Courses Review**
 
-* Escucha su podcast aquí: https://anchor.fm/andres-arriaga
-* Página de Facebook: https://www.facebook.com/CSSECCR/
+* ~~Escucha su podcast aquí: https://anchor.fm/andres-arriaga~~
+* ~~Página de Facebook: https://www.facebook.com/CSSECCR/~~
+* Actualización: Ahora el se encuentra haciendo otro podcast [Business Bubble](https://anchor.fm/andres-arriaga3)
+
