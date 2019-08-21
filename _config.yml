@@ -15,5 +15,8 @@ author :
   linkedin: marianoog
   instagram: mariano_og
 
+plugins:
+  - jekyll-sitemap
+
 JB :
   BASE_PATH: /PodcastAlgoritmos
