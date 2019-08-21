@@ -1,23 +1,17 @@
 ---
-layout: post
-category : episodios
-tagline: "CAP 001 DECISIONES"
-tags : [jekyll, code, markdown]
-img : markdown-samples.jpg
-img2 : 
-img3 : 
-author : MarianoOG
-title2 : 
-title3 : 
+layout: episode
+category: Podcast
+cap: "017"
+img: "017.jpg"
+img: "/images/016"
+tagline: Te platico porqué borre windows de mi computadora y como instalar un nuevo sistema operativo totalmente gratis, lo bueno, lo malo y algunos programas que puedes usar en él.
+author: MarianoOG
 css: 
 js: 
-bgcolor: 
-keywords: 
+keywords: Programación, IA, Inteligencia Artificial, Algoritmos, Machine Learning, Ciencia de Datos, Software, marianoog, PodcastAlgoritmos
 canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
-* Escuchar en: https://ona309.com/Algoritmos017
-<!--more-->
 
 # 017 YOGUR
 

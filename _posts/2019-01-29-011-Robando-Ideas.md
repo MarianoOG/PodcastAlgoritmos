@@ -2,6 +2,7 @@
 layout: episode
 category: Podcast
 cap: "011"
+img: "011.jpg"
 tagline: Este es un episodio especial, un pequeño extracto de una entrevista que me realizaron en un podcast hermano Robando Ideas.
 author: MarianoOG
 css: 

@@ -1,6 +1,6 @@
 # PODCAST ALGORITMOS
 
-![Portada del Podcast Algoritmos](images/podcast.jpg)
+![Portada del Podcast Algoritmos](assets/images/cover/podcast.jpg)
 
 Cree el Podcast Algoritmos para tener pláticas interesantes y aprender más sobre los temas que me gustan. Temas como la Inteligencia Artificial, Machine Learning, discusiones sobre la tenología y las ciencias y el funcionamiento de los servicios digitales en general. En ocasiones, los temas son muy amplios no puedo abarcarlo todo en un solo episodio en formato de audio. Por eso, he creado estas notas. Aquí encontrarás los enlaces que se mencionan en cada episodio, información adicional y las correciones que se hagan.
 

@@ -2,6 +2,7 @@
 layout: index
 title: Podcast Algoritmos
 tagline: Aquí aprenderemos juntos sobre los algoritmos que utilizan las herramientas digitales, también discutiremos los problemas derivados de su uso y las nuevas oportunidades que nos brindan.
+img: podcast.jpg
 css: 
 js:
 keywords: Programación, IA, Inteligencia Artificial, Algoritmos, Machine Learning, Ciencia de Datos, Software, marianoog, PodcastAlgoritmos
@@ -26,7 +27,7 @@ canonical: https://marianoog.github.io
         
         <div class="col-xs-12 col-sm-4">
           <figure>
-            <img src="{{ BASE_PATH }}/images/podcast.jpg" alt="Portada del Podcast Algoritmos">
+            <img src="{{ BASE_PATH }}/assets/images/cover/{{ page.img }}" alt="Portada del Podcast Algoritmos">
           </figure>
         </div>
 
@@ -51,7 +52,7 @@ canonical: https://marianoog.github.io
           <div class="col-md-4 mt-4">
             <div class="blog-block">
               <a href="{{ BASE_PATH }}{{ post.url }}">
-              	<img src="{{ BASE_PATH }}/images/{{ post.cap }}.jpg" alt="Portada de {{ post.title }}">
+              	<img src="{{ BASE_PATH }}/assets/images/cover/{{ post.img }}" alt="Portada de {{ post.title }}">
               </a>
               <div class="blog-content">
                 <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
