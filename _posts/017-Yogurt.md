@@ -3,7 +3,6 @@ layout: episode
 category: Podcast
 cap: "017"
 img: "017.jpg"
-img: "/images/016"
 tagline: Te platico porqué borre windows de mi computadora y como instalar un nuevo sistema operativo totalmente gratis, lo bueno, lo malo y algunos programas que puedes usar en él.
 author: MarianoOG
 css: 
