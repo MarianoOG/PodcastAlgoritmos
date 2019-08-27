@@ -3,7 +3,7 @@ layout: episode
 category: Podcast
 cap: "017"
 img: "017.jpg"
-tagline: Te platico porqué borre windows de mi computadora y como instalar un nuevo sistema operativo totalmente gratis, lo bueno, lo malo y algunos programas que puedes usar en él.
+tagline: Adaptación a audio de un cortometraje de Love, Death + Robots que creo que puede enseñarnos un par de cosas desde computación genética hasta nuestra dependencia a la tecnología.
 author: MarianoOG
 css: 
 js: 
@@ -34,7 +34,7 @@ Ahora, diez años después, la humanidad es feliz, rica y saludable. Ya nadie di
 
 Aún así nos seguimos preguntando: sí el yogur era lo suficientemente inteligente como para darle al gobierno una fórmula que resolvía su problema de deuda, ¿no sería lo suficientemente inteligente como para darse cuenta de que la vanidad intelectual humana nos impediría seguir la fórmula al pie de la letra? Y luego está esto. En las últimas semanas el yogur ha iniciado varios lanzamientos espaciales. Más están por venir. La vida desde la Tierra se va a las estrellas. Simplemente puede que no sea vida humana. ¿Qué pasa si el yogur va a las estrellas sin nosotros? ¿Qué pasa si se va y nos deja atrás por siempre?
 
-## Discussion
+## Discusión
 
 Espero les haya gustado mi mala adaptación del episodio. De cualquier forma te dejo los links del articulo original escrito por () y el cortometraje de Netflix en las notas del episodio. 
 
@@ -60,7 +60,7 @@ No te espantes, no creo que lo que pasa en el episodio pueda volverse una realid
   * Capaz de conocer la respuesta no capaz de predecir (Conciencia) Follow exactly.  
 
 **Cierto**
-  * Como fuimos controlados por un producto diario (nosotros sabemos)  (socrates si sabes realmente no lo harías)
+  * Como fuimos controlados por un producto diario (nosotros sabemos)  (Sócrates si sabes realmente no lo harías)
   * Nadie cambia las formulas (felices? saludables?) problema de la dependencia tecnológica
   * Viajes espaciales no humanos (tiempo de vida) destroza satélite
   * Lactobacillus delbrueckii (DNA computacional)  
