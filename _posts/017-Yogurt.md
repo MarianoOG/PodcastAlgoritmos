@@ -96,3 +96,4 @@ Vamos a imaginarnos que eso es cierto pero en un caso más "real", cambio en hum
   * Conciecia: https://es.wikipedia.org/wiki/Conciencia
   * Conciencia (psicología): https://es.wikipedia.org/wiki/Conciencia_(psicolog%C3%ADa)
   * Conciencia (filosofía): https://es.wikipedia.org/wiki/Conciencia_(filosof%C3%ADa)
+* Computación Genética: 
