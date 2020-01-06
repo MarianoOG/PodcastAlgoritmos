@@ -28,7 +28,7 @@ Siempre dejamos que otros decidan por nosotros; queramos aceptarlo o no. Hay dec
 
 ### Máquinas decidiendo por nosotros
 
-Siempre dejamos que máquinas decidan por nosotros; nos demos cuenta o no. Hay decisiones que son monótonas y que simplemente no vale la pena volver a realizarlas, mucho menos si alguien más tiene una mejor respuesta que la nuestra. Pero la automatización tampoco es algo ajeno, lo hacemos cada vez que utilizamos algún servicio digital. A lo mejor será una subscripción con cargo a nuestra tarjeta de crédito o, tal vez, un automóvil que frena y se estaciona solo. Incluso, podemos delegar decisiones más complejas al compartir más de nuestros datos. Estos serán combinados con nuestro historial y datos de otras personas. Y no solo hablo de realizar anuncios personalizados también para descubrimientos en la educación, las ciencias o la salud. Máquinas decidiendo por nosotros todo el tiempo.
+Siempre dejamos que máquinas decidan por nosotros; nos demos cuenta o no. Hay decisiones que son monótonas y que simplemente no vale la pena volver a realizarlas, mucho menos si alguien más tiene una mejor respuesta que la nuestra. Pero la automatización tampoco es algo ajeno, lo hacemos cada vez que utilizamos algún servicio digital. A lo mejor será una subscripción con cargo a nuestra tarjeta de crédito o, tal vez, un automóvil que frena y se estaciona solo. Incluso, podemos delegar decisiones más complejas al compartir más de nuestros datos. Estos serán combinados con nuestro historial y datos de otras personas. Y no solo hablo de realizar anuncios personalizados también para descubrimientos en la educación, -las ciencias o la salud. Máquinas decidiendo por nosotros todo el tiempo.
 
 ### Es nuestra responsabilidad
 
