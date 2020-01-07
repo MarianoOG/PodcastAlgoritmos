@@ -5,9 +5,7 @@ cap: "012"
 img: "012.jpg"
 tagline: En esta plática con Andres Arriaga el nos platica cómo es estudiar ciencias de la computación y nos da unos tips sobre como empezar a programar.
 author: MarianoOG
-css: 
-js: 
-keywords: Programación, IA, Inteligencia Artificial, Algoritmos, Machine Learning, Ciencia de Datos, Software, marianoog, PodcastAlgoritmos
+keywords: Mariano Orozco Garcia, marianoog, podcast algoritmos, PodcastAlgoritmos
 canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}

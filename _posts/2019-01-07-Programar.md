@@ -5,9 +5,7 @@ cap: "008"
 img: "008.jpg"
 tagline: Empezar a programar suena como algo imposible y muy complicado si nunca lo has hecho. Sin embargo, en mi opinión, se convertirá en una habilidad básica para trabajar en cualquier industria. Aquí lo bueno y lo malo de ser programador.
 author: MarianoOG
-css: 
-js: 
-keywords: Programación, IA, Inteligencia Artificial, Algoritmos, Machine Learning, Ciencia de Datos, Software, marianoog, PodcastAlgoritmos
+keywords: Mariano Orozco Garcia, marianoog, podcast algoritmos, PodcastAlgoritmos
 canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}

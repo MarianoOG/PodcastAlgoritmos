@@ -5,9 +5,7 @@ cap: "011"
 img: "011.jpg"
 tagline: Este es un episodio especial, un pequeño extracto de una entrevista que me realizaron en un podcast hermano Robando Ideas.
 author: MarianoOG
-css: 
-js: 
-keywords: Programación, IA, Inteligencia Artificial, Algoritmos, Machine Learning, Ciencia de Datos, Software, marianoog, PodcastAlgoritmos
+keywords: Mariano Orozco Garcia, marianoog, podcast algoritmos, PodcastAlgoritmos
 canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
