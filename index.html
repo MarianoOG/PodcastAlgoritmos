@@ -34,9 +34,11 @@ canonical: https://marianoog.github.io
 
   </div>
 
-  <div class="mb-60"></div>
-  <h2>Episodios Recientes</h2>
-  <div class="mb-40"></div>
+  <div class="container">
+    <div class="mb-60"></div>
+    <h2>Episodios Recientes</h2>
+    <div class="mb-40"></div>
+  </div>
 
   <!-- Posts -->
   <section id="blog">
@@ -59,12 +61,14 @@ canonical: https://marianoog.github.io
       </div>
     </div>
 
-  <div class="mb-40"></div>
-  <h2>Todos los episodios</h2>
-  <div class="mb-40"></div>
+  <div class="container">
+    <div class="mb-40"></div>
+    <h2>Todos los episodios</h2>
+    <div class="mb-40"></div>
 
-  {% assign posts_collate = site.posts %}
-  {% include JB/posts_collate %}
+    {% assign posts_collate = site.posts %}
+    {% include JB/posts_collate %}
+  </div>
 
   </section>
   <!-- End Posts -->
