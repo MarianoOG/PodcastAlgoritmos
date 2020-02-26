@@ -1,10 +1,8 @@
 ---
 layout: episode
-category: Podcast
 cap: "004"
 img: "004.jpg"
 tagline: El día de hoy hablaremos sobre simplificar, es decir sobre cómo reducir la complejidad de algo. Cuando hay dos respuestas que nos dan un resultado positivo siempre debemos elegir aquella que sea más simple.
-author: MarianoOG
 keywords: Mariano Orozco Garcia, marianoog, podcast algoritmos, PodcastAlgoritmos
 canonical: https://marianoog.github.io
 ---

@@ -1,10 +1,8 @@
 ---
 layout: episode
-category: Podcast
 cap: "001"
 img: "001.jpg"
 tagline: En este episodio discutimos sobre las decisiones. Diferencias y similitudes en el proceso para tomar una decisión entre una computadora y un humano. ¿Crees que una computadora puede tomar decisiones similares a un humano?
-author: MarianoOG
 keywords: Mariano Orozco Garcia, marianoog, podcast algoritmos, PodcastAlgoritmos
 canonical: https://marianoog.github.io
 ---
