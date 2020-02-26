@@ -2,7 +2,7 @@
 layout: index
 title: Podcast Algoritmos | MarianoOG
 tagline: Aquí aprenderemos juntos sobre los algoritmos que utilizan las herramientas digitales, también discutiremos los problemas derivados de su uso y las nuevas oportunidades que nos brindan.
-img: podcast.jpg
+img: T01.jpg
 keywords: Mariano Orozco Garcia, marianoog, podcast algoritmos, PodcastAlgoritmos
 canonical: https://marianoog.github.io
 ---
@@ -17,7 +17,7 @@ canonical: https://marianoog.github.io
 
         <div class="col-xs-12 col-sm-8">
           <div class="hero-content-v2">
-            <h1>Notas del <strong>Podcast <span class="text-primary">Algoritmos</span></strong></h1>
+            <h1>Notas del <br><strong>Podcast <span class="text-primary">Algoritmos</span></strong></h1>
             <p>Cree el Podcast Algoritmos para tener pláticas interesantes y aprender más sobre los temas que me gustan: Inteligencia Artificial, Machine Learning, ciencias, matemáticas y el funcionamiento de los servicios digitales en general. Ya que los temas son muy amplios, he creado estas notas. Aquí encontrarás los enlaces, las correcciones e información adicional de cada episodio.</p>
             <p class="text-center"><a href="https://ona309.com/Podcast" class="page-scroll btn btn-lg btn-default-filled">Escuchar Podcast</a></p>
           </div>
@@ -45,7 +45,7 @@ canonical: https://marianoog.github.io
   <section id="blog">
     <div class="container">                              
       <div class="row">
-        {% for post in site.posts limit 3 %}
+        {% for post in site.posts limit:3 %}
           <div class="col-md-4 mt-4">
             <div class="blog-block">
               <a href="{{ BASE_PATH }}{{ post.url }}">
@@ -62,10 +62,7 @@ canonical: https://marianoog.github.io
       </div>
     </div>
 
-  <div class="container">
-    <h2 class="sub-title space-left">Todos los Episodios</h2>
-  </div>
-  
+  <h2>Todos los episodios</h2>
   <div class="mb-40"></div>
 
   {% assign posts_collate = site.posts %}
