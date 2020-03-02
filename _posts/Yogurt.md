@@ -3,7 +3,6 @@ layout: episode
 cap: "017"
 img: "017.jpg"
 tagline: Adaptación a audio de un cortometraje de Love, Death + Robots que creo que puede enseñarnos un par de cosas desde computación genética hasta nuestra dependencia a la tecnología.
-keywords: Mariano Orozco Garcia, marianoog, podcast algoritmos, PodcastAlgoritmos
 canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
