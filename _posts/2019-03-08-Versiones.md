@@ -7,7 +7,7 @@ canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
 
-# 014 VERSIONES
+# VERSIONES
 
 Si cuando estas escribiendo algo en la computadora sea un programa, un libro o reporte terminas con mil versiones del mismo archivo, esta herramienta te va a servir. Por cierto, también funciona si quieres trabajar en equipo. Aquí explicamos como usar git en tu flujo de trabajo.
 

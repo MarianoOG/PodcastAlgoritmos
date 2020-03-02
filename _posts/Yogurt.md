@@ -7,7 +7,7 @@ canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
 
-# 017 YOGUR
+# YOGUR
 
 ## Intro
 

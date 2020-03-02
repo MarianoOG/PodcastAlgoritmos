@@ -7,7 +7,7 @@ canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
 
-# 001 DECISIONES
+# DECISIONES
 
 En este episodio discutimos sobre las decisiones. Diferencias y similitudes en el proceso para tomar una decisión entre una computadora y un humano. ¿Crees que una computadora puede tomar decisiones similares a un humano?
 

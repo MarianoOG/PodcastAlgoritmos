@@ -7,7 +7,7 @@ canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
 
-# 012 ¿CÓMO ES ESTUDIAR CIENCIAS DE LA COMPUTACIÓN?
+# ESTUDIAR COMPUTACIÓN
 
 En esta plática con Andres Arriaga el nos platica cómo es estudiar ciencias de la computación y nos da unos tips sobre como empezar a programar.
 

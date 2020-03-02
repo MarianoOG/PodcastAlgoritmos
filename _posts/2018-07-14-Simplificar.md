@@ -7,7 +7,7 @@ canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
 
-# 004 SIMPLIFICAR
+# SIMPLIFICAR
 
 El día de hoy hablaremos sobre simplificar, es decir sobre cómo reducir la complejidad de algo. Cuando hay dos respuestas que nos dan un resultado positivo siempre debemos elegir aquella que sea más simple.
 
