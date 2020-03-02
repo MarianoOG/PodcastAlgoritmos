@@ -16,7 +16,7 @@ canonical: https://marianoog.github.io
 
         <div class="col-xs-12 col-sm-8">
           <div class="hero-content-v2">
-            <h1>Notas del <br><strong>Podcast <span class="text-primary">Algoritmos</span></strong></h1>
+            <h1>Notas del <br><strong><span class="text-primary">Podcast Algoritmos</span></strong></h1>
             <p>Cree el Podcast Algoritmos para tener pláticas interesantes y aprender más sobre los temas que me gustan: Inteligencia Artificial, Machine Learning, ciencias, matemáticas y el funcionamiento de los servicios digitales en general. Ya que los temas son muy amplios, he creado estas notas. Aquí encontrarás los enlaces, las correcciones e información adicional de cada episodio.</p>
             <p class="text-center"><a href="https://ona309.com/Podcast" class="page-scroll btn btn-lg btn-default-filled">Escuchar Podcast</a></p>
           </div>
@@ -35,7 +35,7 @@ canonical: https://marianoog.github.io
 
   <div class="container">
     <div class="mb-60"></div>
-    <h2>Episodios Recientes</h2>
+    <h2>Episodios</h2>
     <div class="mb-40"></div>
   </div>
 
@@ -58,15 +58,20 @@ canonical: https://marianoog.github.io
           </div>
         {% endfor %}
       </div>
-    </div>
 
-    <div class="container">
-      <div class="mb-40"></div>
-      <h2 class="sub-title space-left">Todos los episodios</h2>
-      <div class="mb-40"></div>
-
-      {% assign posts_collate = site.posts %}
-      {% include JB/posts_collate %}
+      {<div class="row">
+        {% for post in site.posts offset:3 %}
+          <div class="col-md-4 mt-4">
+            <div class="blog-block">
+              <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.cap }} {{ post.title }}</a></h3>
+              <div class="blog-content">
+                <p>{{ post.tagline }}</p>
+                <p class="text-center"><a href="{{ BASE_PATH }}{{ post.url }}" class="btn btn-common">Leer notas</a></p>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
     </div>
 
   </section>
