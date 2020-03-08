@@ -7,10 +7,6 @@ canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
 
-# DECISIONES
-
-En este episodio discutimos sobre las decisiones. Diferencias y similitudes en el proceso para tomar una decisión entre una computadora y un humano. ¿Crees que una computadora puede tomar decisiones similares a un humano?
-
 ## Introducción
 
 Tomamos decisiones todo el tiempo. En ocasiones, sin consecuencias graves como cargar con un paraguas o no. En otras, demasiado difíciles que nos estresan o incluso llegamos a evitar. Según el diccionario una decisión es: *determinación, resolución que se toma o se da en una cosa dudosa*.<sup>[1](https://dle.rae.es/?id=BxP6lay)</sup> Hacer algo, otra cosa o dejar de hacer. Están determinadas por los objetivos que tenemos, las opciones que vemos en ese momento y las consecuencias que pueden ocasionar. Las decisiones están en todos lados. Las encontramos cada vez que queremos comprar o vender algo, al querer dejar de beber o al elegir pareja. Y se ven influenciadas por las experiencias, los deseos y los sueños de cada quien.

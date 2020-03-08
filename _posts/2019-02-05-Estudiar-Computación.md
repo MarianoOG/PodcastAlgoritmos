@@ -7,13 +7,9 @@ canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
 
-# ESTUDIAR COMPUTACIÓN
+## Links del episodio
 
-En esta plática con Andres Arriaga el nos platica cómo es estudiar ciencias de la computación y nos da unos tips sobre como empezar a programar.
-
-**Computer Science/Software Engineering College Courses Review**
-
-* ~~Escucha su podcast aquí: https://anchor.fm/andres-arriaga~~
+* ~~Escucha el podcast de Andres Arriaga aquí: https://anchor.fm/andres-arriaga~~
 * ~~Página de Facebook: https://www.facebook.com/CSSECCR/~~
-* Actualización: Ahora ya no continua con el podcast.
+* Actualización: El podcast ha terminado.
 

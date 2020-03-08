@@ -7,11 +7,7 @@ canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
 
-# SIMPLIFICAR
-
-El día de hoy hablaremos sobre simplificar, es decir sobre cómo reducir la complejidad de algo. Cuando hay dos respuestas que nos dan un resultado positivo siempre debemos elegir aquella que sea más simple.
-
-## Simplificar
+## Definición de simplificar
 
 Simplificar es reducir la complejidad de algo. Cuando hay dos respuestas que nos dan un resultado positivo siempre debemos elegir aquella que sea más simple. Por ejemplo, al definir tareas del día es posible enfocarse en solo la más importante. Así no estas saltando de un lugar a otro sin terminar. O en el cajón de ropa, si solo tienes aquello que te gusta estará más ordenado que si tienes incluso lo que nunca usas.
 

@@ -7,10 +7,6 @@ canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
 
-# PROGRAMAR
-
-Empezar a programar suena como algo imposible y muy complicado si nunca lo has hecho. Sin embargo, en mi opinión, se convertirá en una habilidad básica para trabajar en cualquier industria. Aquí lo bueno y lo malo de ser programador.
-
 ## ¿Cómo empezar a programar?
 
 En el episodio ya hablamos de lo bueno y lo malo, pero ¿Cómo empezamos a programar? Buscamos en línea y solo encontramos un montón de letras que no tienen sentido: C, C++, PHP, HTML, CSS, Python, Java, Javascript (¿No son lo mismo?). Al principio esa lista sin fin de letras y acrónimos nos puede parecer muy confuso.
