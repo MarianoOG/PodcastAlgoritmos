@@ -1,6 +1,6 @@
 # PODCAST ALGORITMOS
 
-![Portada del Podcast Algoritmos](assets/images/cover/podcast.jpg)
+![Portada del Podcast Algoritmos](assets/images/cover/T01.jpg)
 
 ## Escuchar el podcast
 
