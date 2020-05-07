@@ -8,4 +8,6 @@ Puedes escuchar el podcast [aquí](https://ona309.com/Podcast).
 
 ## Leer notas
 
-Este repositorio utiliza una platilla de jekill por lo que puede ser más comodo leerlo desde [la página web](https://ona309.com/Algoritmos).
+Este repositorio es una muestra anterior de las notas por lo que se encuentra desactualizado.
+
+Puedes ver las notas actuales [aquí](https://www.marianoog.com/podcast-algoritmos).
