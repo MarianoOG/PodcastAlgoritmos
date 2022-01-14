@@ -17,6 +17,9 @@ author :
 
 plugins:
   - jekyll-sitemap
-
+  
+gems:
+  - jekyll-redirect-from
+ 
 JB :
   BASE_PATH: /PodcastAlgoritmos
